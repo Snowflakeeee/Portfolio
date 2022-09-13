@@ -75,7 +75,7 @@ and the rational using of personal finances](https://juniorbank.com.ua/school)
   
 # [Link to my LinkedIn](https://www.linkedin.com/in/snizhana-pylypiuk-b28b88231/)
 # Skills
-<h3>
+<h4>
   
 * Reliable
 * Independent
@@ -104,7 +104,7 @@ development life cycle
 * Slack
   
 # My hoobies and other skills
-<h3>
+<h4>
   
 * Reading
 * Painting/Drawing
