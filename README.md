@@ -14,7 +14,14 @@
 * System and process optimization
 
 # Courses and certificates
-<h3>Data Engineering and Security course(DES-2022)
+<h3>
+
+  [EFSET English certificate (Advanced)](https://www.efset.org/cert/UTaH1z)
+  
+<h3>
+  
+  [Data Engineering and Security course(DES-2022)](https://www.linkedin.com/in/snizhana-pylypiuk-b28b88231/)
+  
 <h4>
 
 * Key Soft Skills
@@ -28,7 +35,10 @@
 * Working with memory in C / C ++
 * Matrix methods in IT
 
-<h3>Artificial Intelligence Technologies Summer School(AIT-2022)
+<h3>
+  
+  [Artificial Intelligence Technologies Summer School(AIT-2022)](https://www.linkedin.com/in/snizhana-pylypiuk-b28b88231/)
+  
 <h4>
 
 * Spheres of practical application of artificial intelligence
@@ -62,6 +72,54 @@ and the rational using of personal finances](https://juniorbank.com.ua/school)
 <h3>
 
 * [Test and bug reports](https://drive.google.com/drive/folders/1XsM_btyf4rvYZfPkXiYwLX2dbmu_apHx?usp=sharing)
+  
+# [Link to my LinkedIn](https://www.linkedin.com/in/snizhana-pylypiuk-b28b88231/)
+# Skills
+<h3>
+  
+* Reliable
+* Independent
+* Team player
+* Punctual
+* Flexible
+* Great at leadership
+  
+<br>
+  
+* Fundamentals of programming C ++
+* Fundamentals of programming Python
+* Fundamentals of the theory of algorithms and data structures
+* C#/Windows Forms
+* Good knowledge about software development, software testing techniques and software
+development life cycle
+  
+<br>
+  
+* Good command of Microsoft OfficeTM tools
+* Visual Studio 2019
+* Visual Studio Code 2019
+* PyCharm
+* GitHub
+* IntelliJ IDEA community
+* Slack
+  
+# My hoobies and other skills
+<h3>
+  
+* Reading
+* Painting/Drawing
+* Judo
+* Chess
+* Gymnastics
+* Volleyball
+* Soccer
+* Shooting with a Kalashnikov
+* Photography
+* Learning new languages
+* Design
+  
+  
+  
 
 
 
