@@ -103,7 +103,7 @@ development life cycle
 * IntelliJ IDEA community
 * Slack
   
-# My hoobies and other skills
+# My hobbies and other skills
 <h4>
   
 * Reading
