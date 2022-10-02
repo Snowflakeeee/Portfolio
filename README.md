@@ -71,7 +71,12 @@ and the rational using of personal finances](https://juniorbank.com.ua/school)
 <h3>
 
 * [Test and bug reports](https://drive.google.com/drive/folders/1XsM_btyf4rvYZfPkXiYwLX2dbmu_apHx?usp=sharing)
-  
+<h3>
+
+* [Project_site_goose](https://github.com/Snowflakeeee/test_goose)
+<h3>
+
+* [Project_3D_app](https://www.figma.com/file/akdwfGEJZQIdGCe9dPkd5I/iPhone?node-id=24171%3A84)
 <br>
 
 [<h2>Link to my LinkedIn</h2>](https://www.linkedin.com/in/snizhana-pylypiuk-b28b88231/)
