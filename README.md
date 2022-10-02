@@ -1,8 +1,8 @@
 # Portfolio
-# About me
+<h2> About me</h2>
 <h4>My name is Snizhana Pylypiuk. I have recently embarked on a career change journey in order to become a Software Tester, which is something I'm really passionate about. I am exited about the opportinity of getting the intership and delighted to be given a chance to prove my skills.
 
-# Education
+<h2> Education</h2>
 <h3>Bachelor of System analysis in Computer Science at Lviv Polytechnic National University
 <h4>
 
@@ -13,7 +13,7 @@
 * Operations research
 * System and process optimization
 
-# Courses and certificates
+<h2> Courses and certificates</h2>
 <h3>
 
   [EFSET English certificate (Advanced)](https://www.efset.org/cert/UTaH1z)
@@ -58,8 +58,7 @@ English and intercultural skills, making an impact on both an individual and a n
 
 * [Theoretical knowledge in the provision of banking services
 and the rational using of personal finances](https://juniorbank.com.ua/school)
-
-# My projects
+<h2>My projects</h2>
 <h3>
 
 * [Repository challenge_potfolio_snizhana](https://github.com/Snowflakeeee/challenge_portfolio_snizhana)
@@ -73,8 +72,12 @@ and the rational using of personal finances](https://juniorbank.com.ua/school)
 
 * [Test and bug reports](https://drive.google.com/drive/folders/1XsM_btyf4rvYZfPkXiYwLX2dbmu_apHx?usp=sharing)
   
-# [Link to my LinkedIn](https://www.linkedin.com/in/snizhana-pylypiuk-b28b88231/)
-# Skills
+<br>
+
+[<h2>Link to my LinkedIn</h2>](https://www.linkedin.com/in/snizhana-pylypiuk-b28b88231/)
+    
+ 
+<h2>Skills</h2>
 <h4>
   
 * Reliable
@@ -103,7 +106,7 @@ development life cycle
 * IntelliJ IDEA community
 * Slack
   
-# My hobbies and other skills
+<h2> My hobbies and other skills</h2>
 <h4>
   
 * Reading
