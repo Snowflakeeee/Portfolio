@@ -88,28 +88,42 @@ and the rational using of personal finances](https://juniorbank.com.ua/school)
 * Reliable
 * Independent
 * Team player
+* Fast learner
 * Punctual
 * Flexible
-* Great at leadership
   
-<br>
+<h2>Tech skills</h2>
+<h4>
   
-* Fundamentals of programming C ++
-* Fundamentals of programming Python
+* Basics of C ++ language
+* Basics of Python language
 * Fundamentals of the theory of algorithms and data structures
+* HTML/CSS
 * C#/Windows Forms
 * Good knowledge about software development, software testing techniques and software
 development life cycle
+* Software testing
+* Creating test cases
+* Reporting bugs
+* Finding uniqe Selectors and xPaths
+* Creating diagrams and decision tables
   
-<br>
+<h2>Tools</h2>
+<h4>
   
 * Good command of Microsoft OfficeTM tools
 * Visual Studio 2019
 * Visual Studio Code 2019
 * PyCharm
-* GitHub
+* Git, GitHub
 * IntelliJ IDEA community
-* Slack
+* Slack - for communication within the team
+*  [Snagit Editor](https://www.techsmith.com/screen-capture.html) - Screen capture software
+*  [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+*  [chroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo) - Development tool to edit, inspect and generate XPath and CSS Selectors.
+* [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
+* Selenium IDE - tool use to support automated testing
+* Selenium WebDriver - for automated testing of web applications
   
 <h2> My hobbies and other skills</h2>
 <h4>
