@@ -136,8 +136,8 @@ development life cycle
 * Slack - for communication within the team
 *  [Snagit Editor](https://www.techsmith.com/screen-capture.html) - screen capture software
 *  [Trello](https://trello.com/) - issue tracking and project management tool for developers
-*  [chroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo) - development tool to edit, inspect and generate XPath and CSS Selectors.
-* [draw.io](https://app.diagrams.net/) - flowchart maker and online diagram software
+*  [ChroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo) - development tool to edit, inspect and generate XPath and CSS Selectors.
+* [Draw.io](https://app.diagrams.net/) - flowchart maker and online diagram software
 * Selenium IDE - tool use to support automated testing
 * Selenium WebDriver - for automated testing of web applications
   
