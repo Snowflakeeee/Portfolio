@@ -134,6 +134,7 @@ development life cycle
 * Visual Studio Code 2019
 * PyCharm
 * Git, GitHub
+* Figma
 * IntelliJ IDEA community
 * Slack - for communication within the team
 *  [Snagit Editor](https://www.techsmith.com/screen-capture.html) - screen capture software
