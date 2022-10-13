@@ -140,7 +140,7 @@ development life cycle
 * IntelliJ IDEA community
 * Slack - for communication within the team
 *  [Snagit Editor](https://www.techsmith.com/screen-capture.html) - screen capture software
-*  [Trello](https://trello.com/) - issue tracking and project management tool for developers
+*  [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - issue tracking and project management tool for developers
 *  [ChroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo) - development tool to edit, inspect and generate XPath and CSS Selectors.
 * [Draw.io](https://app.diagrams.net/) - flowchart maker and online diagram software
 * Selenium IDE - tool use to support automated testing
