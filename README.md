@@ -133,6 +133,8 @@ development life cycle
 * Visual Studio 2019
 * Visual Studio Code 2019
 * PyCharm
+* Blender - is an open-source 3D computer graphics software tool set used for creating animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and, formerly, video games
+* Krita - painting software that provides businesses with tools to create and share professional paintings or sketches on a centralized platform. 
 * Git, GitHub
 * Figma
 * IntelliJ IDEA community
