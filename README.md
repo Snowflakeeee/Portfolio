@@ -94,6 +94,8 @@ and the rational using of personal finances](https://juniorbank.com.ua/school)
 
 * [Project_3D_app](https://www.figma.com/file/akdwfGEJZQIdGCe9dPkd5I/iPhone?node-id=24171%3A84)
   
+* [Repository QA_challenge_testing_programming_site](https://github.com/Snowflakeeee/QA_challenge_testing_programming_site)
+  
 <br>
 <h2>
   
