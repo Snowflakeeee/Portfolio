@@ -25,6 +25,7 @@
 <h4>
   
 * Software testing
+* Python + Selenium Webdriver
 * Creating test cases
 * Reporting bugs
 * Finding uniqe Selectors and xPaths
