@@ -70,20 +70,20 @@
   
 <h4>
 
-• IT methodologies
-• Test-cases
-• Checklists
-• Defects
-• Types of testing
-• Approaches of testing
-• Levels of testing
-• Test design techniques
-• Requirements
-• Metrics
-• Program versions
-• Performance evaluation
-• Databases
-• API
+*  IT methodologies
+*  Test-cases
+*  Checklists
+*  Defects
+*  Types of testing
+*  Approaches of testing
+*  Levels of testing
+*  Test design techniques
+*  Requirements
+*  Metrics
+*  Program versions
+*  Performance evaluation
+*  Databases
+*  API
 
 <h3>Engin program
 <h4>
