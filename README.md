@@ -64,6 +64,27 @@
 * Data processing
 * Cybersecurity
 
+<h3>
+  
+  [QA/QC EngineerQA/QC Engineer Tommy Online University](https://www.linkedin.com/in/snizhana-pylypiuk-b28b88231/)
+  
+<h4>
+
+• IT methodologies
+• Test-cases
+• Checklists
+• Defects
+• Types of testing
+• Approaches of testing
+• Levels of testing
+• Test design techniques
+• Requirements
+• Metrics
+• Program versions
+• Performance evaluation
+• Databases
+• API
+
 <h3>Engin program
 <h4>
 
