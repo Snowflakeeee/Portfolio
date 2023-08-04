@@ -1,6 +1,6 @@
 # Portfolio
 <h2> About me</h2>
-<h4>My name is Snizhana Pylypiuk. I have recently embarked on a career change journey in order to become a Software Tester, which is something I'm really passionate about. I am excited about the opportunity to be given a chance to prove my skills.
+<h4>My name is Snizhana Pylypiuk. I have recently embarked on a career change journey in order to become a Software Tester, which is something I'm really passionate about.
 
 <h2> Education</h2>
 <h3>Bachelor of System analysis in Computer Science at Lviv Polytechnic National University
