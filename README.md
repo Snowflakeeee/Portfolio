@@ -104,7 +104,7 @@ and the rational using of personal finances](https://juniorbank.com.ua/school)
 * [Repository challenge_potfolio_snizhana](https://github.com/Snowflakeeee/challenge_portfolio_snizhana)
 <h3>
 
-* [Repository test_robotframework(Bug reports, Check-list, Spring Backlog)](https://github.com/Snowflakeeee/test_robotframework)
+* [Repository test_robotframework](https://github.com/Snowflakeeee/test_robotframework)
 <h3>
 
 * [Test cases](https://drive.google.com/drive/folders/1OCYaRSgf2pvpfmjhsWE3zX0DNiVqCSJN?usp=sharing)
@@ -113,7 +113,7 @@ and the rational using of personal finances](https://juniorbank.com.ua/school)
 * [Test and bug reports](https://drive.google.com/drive/folders/1XsM_btyf4rvYZfPkXiYwLX2dbmu_apHx?usp=sharing)
 <h3>
 
-* [Project_site_goose](https://github.com/Snowflakeeee/test_goose)
+* [Project_site_goose(Bug reports, Check-list, Spring Backlog)](https://github.com/Snowflakeeee/test_goose)
 <h3>
 
 * [Project_3D_app](https://www.figma.com/file/akdwfGEJZQIdGCe9dPkd5I/iPhone?node-id=24171%3A84)
