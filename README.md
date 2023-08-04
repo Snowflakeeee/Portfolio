@@ -66,7 +66,7 @@
 
 <h3>
   
-  [QA/QC EngineerQA/QC Engineer Tommy Online University](https://www.linkedin.com/in/snizhana-pylypiuk-b28b88231/)
+  [QA/QC Engineer Tommy Online University](https://www.linkedin.com/in/snizhana-pylypiuk-b28b88231/)
   
 <h4>
 
