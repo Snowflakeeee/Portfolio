@@ -84,7 +84,9 @@
 *  Performance evaluation
 *  Databases
 *  API
-
+<h3>
+  
+  [QA START UP testing courses](https://www.linkedin.com/in/snizhana-pylypiuk-b28b88231/)
 <h3>Engin program
 <h4>
 
